@@ -1,4 +1,5 @@
 ![banner](icon.svg)
+pkg update & pkg upgrade 
 
 ---
 
